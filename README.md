@@ -165,5 +165,3 @@ Acknowledgements
 - Based on standard financial formulas (time value of money, annuity formulas).
 - Contributions and ideas from the real estate investing community.
 
-Need help customizing this README?
-Tell me which calculators you want emphasized, or paste your folder layout and I’ll tailor the "How to run" and examples to the repo's exact structure (I can also draft a CONTRIBUTING.md and CODE_OF_CONDUCT.md next).
