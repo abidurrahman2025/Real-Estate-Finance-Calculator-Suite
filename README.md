@@ -9,11 +9,6 @@ Why this project exists
 - Real estate investing requires repeated financial calculations (mortgages, cash flow, ROI, IRR, cap rates, amortization). This repo centralizes common calculators and tools into a single, extensible suite.
 - Built to be accessible: an HTML front-end for quick use, Java components for production-ready integration, and Python scripts for data analysis and automation.
 
-Repository language composition
-- HTML: 63.7%
-- Java: 23.0%
-- Python: 13.3%
-
 Table of contents
 - Features
 - Quick demo (examples)
